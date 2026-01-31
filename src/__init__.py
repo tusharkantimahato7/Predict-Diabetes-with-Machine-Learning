@@ -5,4 +5,4 @@ a diabetes prediction model using machine learning.
 """
 
 __version__ = "1.0.0"
-__author__ = "ML Engineer"
+__author__ = "Tushar Kanti Mahato"
