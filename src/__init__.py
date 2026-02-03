@@ -1,8 +1,7 @@
 """
-Diabetes Prediction Package
-This package contains modules for loading, preprocessing, training, and evaluating
-a diabetes prediction model using machine learning.
+Utility functions and helpers
 """
 
-__version__ = "1.0.0"
-__author__ = "Tushar Kanti Mahato"
+from .helpers import ensure_dir, print_separator
+
+__all__ = ['ensure_dir', 'print_separator']
