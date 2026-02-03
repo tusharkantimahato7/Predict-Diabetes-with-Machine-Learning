@@ -293,7 +293,7 @@ This project is open source and available for educational purposes.
 
 ## 👤 Author
 
-- Email:papaimahato022.com
+- Email:papaimahato022gmail.com
 - GitHub: [@tusharkantimahato7](https://github.com/tusharkantimahato7)
 
 ---
