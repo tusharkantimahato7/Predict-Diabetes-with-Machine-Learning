@@ -104,7 +104,7 @@ diabetes-ml-project/
 ### Step 1: Clone or Download
 ```bash
 # Clone with git
-git clone https://github.com/tusharkantimaahato7/diabetes-ml-project.git
+git clone https://github.com/tusharkantimahato7/diabetes-ml-project.git
 cd diabetes-ml-project
 
 # Or download and extract ZIP
